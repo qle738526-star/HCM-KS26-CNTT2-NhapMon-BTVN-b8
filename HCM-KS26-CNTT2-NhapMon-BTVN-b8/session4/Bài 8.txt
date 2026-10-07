@@ -1,0 +1,5 @@
+Bài 8: Khởi tạo cấu trúc module Đồ uống bằng Terminal tại OrderTech 
+Hệ điều hành Windows PowerShell
+Tạo thư mục: mkdir drink_module
+Chuyển vào thư mục: cd drink_module
+Tạo file 2 file trống: New-Item -ItemType File -Name "coffee.txt", "tea.txt"
